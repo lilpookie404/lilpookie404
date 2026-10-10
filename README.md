@@ -1,19 +1,26 @@
-# Hi, I'm Vaishnavi 👋
+# Hi, I’m Vaishnavi 👋
 
-I’m a software engineer interested in building thoughtful full-stack and AI-powered products. I enjoy turning ambiguous ideas into practical, reliable software.
+I’m a design-minded software engineer based in Bengaluru, India. I like building thoughtful products that are useful, reliable, and genuinely nice to use.
 
-## What I’m working on
+I’m the kind of person who lets an idea sit in her head for a while, thinks through every detail, and then tries to turn it into something real.
 
-I’m building **Tenvero**, a private tenancy-management platform that helps landlords and tenants keep shared rental records organised, using React, Node.js, PostgreSQL, and TypeScript.
+## Currently building
 
-## My toolbox
+I’m building **[Tenvero](#)**, a private tenancy-management platform that helps landlords and tenants keep shared rental records organised.
 
-**Languages:** Python, TypeScript, JavaScript, SQL  
-**Frameworks:** React, Next.js, FastAPI, Django, Flask  
-**Tools:** PostgreSQL, Docker, Git, Kubernetes, Vercel
+## My stack
 
-## Let’s connect
+My main stack is **React, TypeScript, Node.js, PostgreSQL, and Tailwind CSS**.
 
-- LinkedIn: [vaishnavi-awadhiya](https://linkedin.com/in/vaishnavi-awadhiya)
-- X: [@vaishnaviawadh1](https://x.com/vaishnaviawadh1)
-- Email: [vaishnaviawadhiya2811@gmail.com](mailto:vaishnaviawadhiya2811@gmail.com)
+I also work with **Python, FastAPI, Django, Next.js, Docker, and Kubernetes**.
+
+## Favourite project
+
+My favourite project so far is **[TabulaClean](https://github.com/lilpookie404/tabulaclean)** — an AI-assisted CSV/XLSX cleaning tool that helps people find, review, and safely fix data-quality issues.
+
+## A few fun facts
+
+- Pumpkin spice lattes have my whole heart.
+- Autumn is my favourite season.
+- I enjoy Pilates, building things, and collecting more project ideas than I can realistically finish.
+- I care equally about making things work well and making them feel good to use.
